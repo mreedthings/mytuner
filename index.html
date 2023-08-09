@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guitar Strings</title>
+    <style>
+        .string {
+    padding: 10px;
+    border: 1px solid black;
+    margin: 5px 0;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.string:hover {
+    background-color: #f0f0f0;
+}
+
+    </style>
+</head>
+
+<body>
+    <label for="durationSelect">Choose tone duration: </label>
+<select id="durationSelect">
+    <option value="1">1 second</option>
+    <option value="2">2 seconds</option>
+    <option value="5">5 seconds</option>
+    <option value="10">10 seconds</option>
+</select>
+
+    <h1>Guitar Strings and their Notes</h1>
+
+    <div id="guitarStrings"></div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
