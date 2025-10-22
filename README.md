@@ -1,3 +1,13 @@
+# ⚠️ This Repository Has Been Archived
+
+**This project has been incorporated into [matt-dev.com](https://github.com/mreedthings/matt-dev.com) as part of a unified personal website and portfolio.**
+
+- **Live Demo:** https://matt-dev.com/tuner (or https://dev.matt-dev.com/tuner for latest)
+- **Active Development:** [matt-dev.com/public/tuner](https://github.com/mreedthings/matt-dev.com/tree/main/public/tuner)
+- **Source Code:** All future updates will be in the matt-dev.com repository
+
+---
+
 # MyTuner
 
 A simple, accessible guitar tuner web app that plays reference tones for each guitar string in standard tuning.
